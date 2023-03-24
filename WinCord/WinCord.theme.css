@@ -20,7 +20,7 @@
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/WinCord/WinCord.css");
 
 :root {
-    --channel-info-spacing: 578px; /* MUST CHANGE FOR YOUR DISPLAY SIZE */
+    --channel-info-spacing: 1080px; /* MUST CHANGE FOR YOUR DISPLAY SIZE */
     --please-dont-change-these: "like Really Please Leave Them";
     --version1_0: none;
     --header-primary: #fff;
